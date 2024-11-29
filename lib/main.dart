@@ -106,7 +106,7 @@ class _FakirlikWidgetState extends State<FakirlikWidget> {
                   onPressed: () {
                     _showPopup('Günde 40-60 dakikanı spora ayır');
                   },
-                  child: const Text('Harekete Geç'),
+                  child: const Text('Hareketee Geç'),
                 ),
                 ElevatedButton(
                   onPressed: () {
