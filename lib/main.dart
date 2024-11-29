@@ -9,6 +9,8 @@ void main() {
 }
 
 class FakirlikWidget extends StatefulWidget {
+  const FakirlikWidget({super.key});
+
   @override
   _FakirlikWidgetState createState() => _FakirlikWidgetState();
 }
